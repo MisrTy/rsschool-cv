@@ -10,3 +10,7 @@
 * CSS
 * JavaScript
 * GIT
+
+## Languages:
+* English - B1
+* Russian - Native speaker
